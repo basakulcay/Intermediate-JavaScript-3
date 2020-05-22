@@ -16,6 +16,7 @@ At present, Message Mixer runs as a program in a single file. This single file i
 
 
 ## Workaround - Employees (Modules)
+
 WorkAround is a human resources program that returns basic information about an employee, based on salary data. Using WorkAround, one can use an employee’s salary data to:
 
     return the cadre of the of the employee, in other words, whether this employee is entry level, mid level, or senior level.
